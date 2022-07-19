@@ -17,3 +17,5 @@ if guess == secretNumber:
     print("Верно! Количество попыток: " + str(guessesTaken))
 else:
     print('Нет, было задумано число ' + str(secretNumber))
+
+print(1)
